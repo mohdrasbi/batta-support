@@ -1,8 +1,6 @@
 # Batta support
-This repo is intended for Batta players to raise any issues. 
+This repo is intended for Batta players to raise any issues they face in the game.
 
-# Android
-https://play.google.com/store/apps/details?id=com.Batta.Batta
-
-# iPhone
-To be added soon.
+Download:
+- [Android](https://play.google.com/store/apps/details?id=com.Batta.BattaGame)
+- [iPhone](https://apps.apple.com/om/app/batta/id1622611340)
